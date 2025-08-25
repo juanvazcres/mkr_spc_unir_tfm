@@ -1,6 +1,6 @@
 @extends('adminlte::page')
 
-@section ('title', 'Infinito Virtual')
+@section ('title', 'UMaker')
 
 @section ('content_header')
     <h1>Infinito</h1>
