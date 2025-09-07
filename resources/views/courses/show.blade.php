@@ -23,11 +23,11 @@
         <div class="lg:col-span-2 order-2 lg:order-1">
 
             <section class=" card">
-                <div class="card-body">}
+                <div class="card-body">
 
 
 
-                    <h1 class="font-bold text-2xl mb-2"> Loque Aprenderas</h1>
+                    <h1 class="font-bold text-2xl mb-2"> Lo que aprenderas</h1>
 
 
                      <ul class="grid grid-cols-1 md:grid-cols-2 gap-x-6 gap-y-2">    
