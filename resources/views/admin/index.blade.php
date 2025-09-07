@@ -3,7 +3,7 @@
 @section ('title', 'UMaker')
 
 @section ('content_header')
-    <h1>Infinito</h1>
+    <h1>UMaker</h1>
 @stop
 
 @section ('content')
